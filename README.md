@@ -49,13 +49,21 @@ Python-based QA automation framework using pytest and Playwright.
 - Test reports, logs, and evidence.
 - GitHub Actions CI workflow.
 
-### [Task Management System](https://github.com/lacelyn5/Task-Management-System)
+### [BugPilot QA Platform](https://github.com/lacelyn5/BugPilot-QA)
 
-A web application for task management, built with Django.
+A Django-based QA management platform for organizing software testing workflows.
+
+- Project and test case management.
+- Test execution history and bug reports.
+- Django and Playwright automated tests.
+- Postman collection and QA documentation.
 
 ### [PocketBudget](https://github.com/lacelyn5/PocketBudget)
 
 A personal budgeting web application built with Django.
+
+- Web-based application for personal finance management.
+- Python and Django project.
 
 ## Connect With Me
 
