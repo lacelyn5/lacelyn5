@@ -1,16 +1,64 @@
-## Hi there 👋
 
-<!--
-**lacelyn5/lacelyn5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Maksim 👋
 
-Here are some ideas to get you started:
+### Computer Science Graduate | Python | Web Development | QA Automation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📍 Warsaw, Poland  
+💼 Open to entry-level IT opportunities
+
+---
+
+## About Me
+
+I'm a Computer Science graduate interested in software development, web technologies, and software quality.
+
+I enjoy building practical projects, exploring new technologies, and improving my technical skills through hands-on work.
+
+My experience includes developing Python applications, working with web projects, and creating automated tests for web applications and APIs.
+
+I'm currently looking for an opportunity to start my career in IT, learn from experienced professionals, and contribute to real-world projects.
+
+## Technical Skills
+
+**Programming & Web Development**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+
+**Testing & Automation**
+
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
+## Featured Projects
+
+### [ShopGuard QA Automation](https://github.com/lacelyn5/ShopGuard)
+
+Python-based QA automation framework using pytest and Playwright.
+
+- Automated API and browser testing.
+- Local dashboard for managing and running tests.
+- Test reports, logs, and evidence.
+- GitHub Actions CI workflow.
+
+### [Task Management System](https://github.com/lacelyn5/Task-Management-System)
+
+A web application for task management, built with Django.
+
+### [PocketBudget](https://github.com/lacelyn5/PocketBudget)
+
+A personal budgeting web application built with Django.
+
+## Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maksim-kernazhytski-8b84b0391/)
+
+[GitHub Repositories](https://github.com/lacelyn5?tab=repositories)
