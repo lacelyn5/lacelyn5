@@ -17,6 +17,15 @@ I enjoy building practical projects, exploring new technologies, and improving m
 My experience includes developing Python applications, working with web projects, and creating automated tests for web applications and APIs.
 
 I'm currently looking for an opportunity to start my career in IT, learn from experienced professionals, and contribute to real-world projects.
+## Areas of Interest
+
+- Python and Django web development
+- Web application development
+- Software testing and QA automation
+- API testing and browser automation
+- Exploring new technologies and practical IT solutions
+
+I'm open to entry-level opportunities in different IT areas where I can apply my current skills, learn from experienced professionals, and grow as a specialist.
 
 ## Technical Skills
 
